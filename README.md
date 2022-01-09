@@ -3,7 +3,7 @@
 This repository is for showing how Git and GitHub work
 
 This is a sample.
-Adding a line.
+Adding a line. Add more changes from myfeature brach.
 
 ## Introduction
 
