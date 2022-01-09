@@ -2,7 +2,8 @@
 
 This repository is for showing how Git and GitHub work
 
-This is a sample
+This is a sample.
+Adding a line.
 
 ## Introduction
 
