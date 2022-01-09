@@ -19,3 +19,7 @@ This is an example of ...
 ## How to deploy
 
 This is a simple deployment 
+
+### Copyright
+
+2022 Git.Training
