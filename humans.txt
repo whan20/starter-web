@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    W H whan@guest.com
 
 # THANKS
 
