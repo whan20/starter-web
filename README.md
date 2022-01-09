@@ -6,6 +6,8 @@ This is a sample
 
 ## Introduction
 
+This is example to do merge
+
 ## Purpose
 
 Sample website with plenty of files for demos
